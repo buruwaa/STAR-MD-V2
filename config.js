@@ -53,7 +53,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'STAR-MD-V2'
+global.botname = '🅚🅘🅝🅖 🅐🅜🅓🅐'
 global.premium = 'true'
 global.packname = 'STAR-MD' 
 global.author = 'Excel' 
@@ -67,11 +67,11 @@ global.fglog = 'STAR.jpg'
 global.thumb = fs.readFileSync('./STAR.jpg')
 
 
-global.wait = '*🕣 _STAR IS LOADING..._*\n*▰▰▰▱▱▱▱▱*'
-global.rwait = '🔜'
+global.wait = '*🕣 _ 🅐🅜🅓🅐 IS LOADING..._*\n*▰▰▰▱▱▱▱▱*'
+global.rwait = '❗'
 global.dmoji = '⚡'
 global.done = '✅'
-global.error = '❎' 
+global.error = '🚫' 
 global.xmoji = '⤵️' 
 
 global.multiplier = 69 
